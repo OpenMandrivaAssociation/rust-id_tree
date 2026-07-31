@@ -5,8 +5,8 @@
 %global crate id_tree
 
 Name:           rust-%{crate}
-Version:        1.7.0
-Release:        2%{?dist}
+Version:        1.8.0
+Release:        1%{?dist}
 Summary:        Library for creating and modifying Tree structures
 
 # Upstream license specification: MIT
